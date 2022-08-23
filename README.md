@@ -1,6 +1,6 @@
 ## Lua-Scripts
 
- -  some scripts for using:
+ - some scripts 🌚 for using:
    - in Roblox studio
    - logic games
    - logic developer
