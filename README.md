@@ -4,3 +4,4 @@
    - in Roblox studio
    - logic games
    - logic developer
+   - for classes
